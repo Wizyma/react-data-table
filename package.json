@@ -1,0 +1,22 @@
+{
+  "name": "react-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsparanoguy/react-table.git"
+  },
+  "author": "André Gomes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsparanoguy/react-table/issues"
+  },
+  "homepage": "https://github.com/jsparanoguy/react-table#readme",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
